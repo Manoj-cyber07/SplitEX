@@ -16,9 +16,9 @@ SplitEX allows you to split bills, share expenses and settle payments trustlessl
 | Item | Value |
 |------|-------|
 | Network | Stellar Testnet |
-| Contract ID | ` ` |
-| Deploy TX Hash | `` |
-| Stellar Explorer | [View Contract]() |
+| Contract ID | ` CAHORHFAW4MAIPWM4EDOWST3IP4MGPARHZ4EMXMUPYUBMAYO76JDDHAB ` |
+| Deploy TX Hash | `eac32d86907d35820d153b3f0c8229cd5394b57ceb05a14f451adbd430f2a294` |
+| Stellar Explorer | [View Contract](https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CAHORHFAW4MAIPWM4EDOWST3IP4MGPARHZ4EMXMUPYUBMAYO76JDDHAB;;) |
 
 
 ## Features
